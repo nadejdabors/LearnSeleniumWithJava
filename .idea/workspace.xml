@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4cbd7e8-147c-4ae6-9274-089b30c31cd3" name="Changes" comment="Added the implementation off id, name, linkText and partialLinkText">
+    <list default="true" id="a4cbd7e8-147c-4ae6-9274-089b30c31cd3" name="Changes" comment="Added the implementation off locators that are used to find multiple elements. Locators className and tagName">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/udemy3csslocator/CssLocator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/udemy2/LocatorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udemy/udemy2/LocatorDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +66,22 @@
       <option name="project" value="LOCAL" />
       <updated>1697738607256</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added the implementation off locators that are used to find multiple elements. Locators className and tagName">
+      <option name="closed" value="true" />
+      <created>1697739551792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697739551792</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the implementation of the first Automation Test" />
     <MESSAGE value="Added the implementation off id, name, linkText and partialLinkText" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the implementation off id, name, linkText and partialLinkText" />
+    <MESSAGE value="Added the implementation off locators that are used to find multiple elements. Locators className and tagName" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the implementation off locators that are used to find multiple elements. Locators className and tagName" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
